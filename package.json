@@ -1,10 +1,15 @@
 {
     "name": "chatrooms",
     "version": "0.0.1",
+    "repository": {
+      "type" : "github",
+      "url" : "https://github.com/hollyrock/chat.git"
+    },
+    "license":"MIT",
     "description": "Minimalist multiroom chat server",
     "dependencies": {
-        "socket.io": "~0.9.6",
-        "mime": "~1.2.7"
+        "mime": "~1.2.7",
+        "npm": "^5.8.0",
+        "socket.io": "~0.9.6"
     }
 }
-

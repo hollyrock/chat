@@ -1,6 +1,10 @@
-chat
-====
+============== Node.js IN ACTION
 
-Node.js tutorial 1
+- tutorial 1
+  Chat Server/Client Application
 
-Example: Chat Server/Client with Node.js
+=============================================
+
+Command line to execute:
+
+ > node server.js
